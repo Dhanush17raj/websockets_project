@@ -20,3 +20,9 @@ We had used websockets for the live updation of the values of crypto-currencies.
 ## Comparison of values of the model vs the actual value
 #
 ![WhatsApp Image 2022-10-17 at 07 36 14 (3)](https://user-images.githubusercontent.com/76429389/196074118-a0bb776b-10da-4015-9ccb-e3cb6d0589a1.jpeg)
+
+#Technologies Used
+
+HTML
+Javascript
+Tensorflow
