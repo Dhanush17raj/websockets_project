@@ -23,13 +23,13 @@ We had used websockets for the live updation of the values of crypto-currencies.
 
 # Technologies Used
 
-HTML
-Javascript
-Tensorflow
+```HTML```
+```Javascript```
+```Tensorflow```
 
 # Team members
 
-Dhanush Raj R J
-Dhanush Joy
-Alan Ponnachan
+```Dhanush Raj R J```
+```Dhanush Joy```
+```Alan Ponnachan```
 
