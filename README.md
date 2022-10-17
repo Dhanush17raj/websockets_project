@@ -14,6 +14,7 @@ We had used websockets for the live updation of the values of crypto-currencies.
 
 ## Figure 2 : Prediction of the model for next 50 days
 
+
 ![WhatsApp Image 2022-10-17 at 07 36 14 (2)](https://user-images.githubusercontent.com/76429389/196074117-04cc69bb-060d-41cb-9251-8fe0b8257f5e.jpeg)
 
 ## Comparison of values of the model vs the actual value
